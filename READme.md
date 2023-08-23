@@ -15,7 +15,7 @@ Orchestration-IP10
 Docker desktop and  minikube installed in docker desktop
 
 ## Technologies Used
-Docker
-Kubernetes
-Minikube
+# Docker
+# Kubernetes
+# Minikube
 
