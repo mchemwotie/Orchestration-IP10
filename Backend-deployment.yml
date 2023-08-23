@@ -33,6 +33,7 @@ spec:
                   name: mongodb-secret
                   key: MONGO_URI
           volumeMounts:
+          
             - name: backend-storage
               mountPath: /app/data
       volumes:
