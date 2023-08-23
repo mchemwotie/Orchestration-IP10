@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: frontend-configmap
 data:
-  baseurl: "yolo-k8s-backend-service:5050"
+  baseurl: "yolo-k8s-backend-service:5050" 
