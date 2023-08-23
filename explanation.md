@@ -1,7 +1,6 @@
 ## Deploy react app to K8S
 
 ## Implementation plan
-
  ## prerequisites 
   1. Docker Desktop installed
   2. Minikube installed and runing in docker desktop
